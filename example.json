@@ -1,0 +1,712 @@
+[
+{
+    "document":
+    {
+        "receipt":
+        {
+            "items": [
+            {
+                "name": "*3455252 COCA-COLA Нап.ЗЕРО б/а с/г 1,5л",
+                "price": 1379,
+                "quantity": 1,
+                "sum": 1379
+            },
+            {
+                "name": "3373035 Пиво GUINNESS 4,2% ж/б 0.44л",
+                "price": 3210,
+                "quantity": 1,
+                "sum": 3210
+            },
+            {
+                "name": "3371481 Нап.пив.KRONENB.1664БЛ.0.46л",
+                "price": 2134,
+                "quantity": 1,
+                "sum": 2134
+            },
+            {
+                "name": "3360552 ХРУСТ.СухарикиБАГ.ТОМАТ/ЗЕЛ.60г",
+                "price": 775,
+                "quantity": 1,
+                "sum": 775
+            }],
+            "operationType": 1,
+            "fiscalDriveNumber": "8710000100535518",
+            "rawData": "AwDYAREEEAA4NzEwMDAwMTAwNTM1NTE4DQQUADAwMDA0MzA1NzgwNjQ2ODAgICAg+gMMADc4MjU3MDYwODYgIBAEBADxAAEA9AMEACCm/Fo1BAYAMQQS5JZNDgQEAFYBAAASBAQA9gAAAB4EAQAB/AMCAEodIwRIAAYEKAAqMzQ1NTI1MiBDT0NBLUNPTEEgjaCvLoeFkI4goS+gIOEvoyAxLDWrNwQCAGMF/wMCAAABEwQCAGMFrwQBAAGwBAEA0iMERQAGBCQAMzM3MzAzNSCPqKKuIEdVSU5ORVNTIDQsMiUgpi+hIDAuNDSrNwQCAIoM/wMCAAABEwQCAIoMrwQBAAGwBAIA6gEjBEUABgQkADMzNzE0ODEgjaCvLq+ooi5LUk9ORU5CLjE2NjSBiy4wLjQ2qzcEAgBWCP8DAgAAARMEAgBWCK8EAQABsAQCAEYBIwRHAAYEJwAzMzYwNTUyIJWQk5GSLpHj5aDgqKqogYCDLpKOjICSL4eFiy42MKM3BAIABwP/AwIAAAETBAIABwOvBAEAArAEAQBGBwQBAAA5BAIASh2/BAEAAMAEAQAAwQQBAAD9AxAAiqDppaWiIIKroKSoY6ugoh8EAQABTwQBAEZOBAIAAgQ=",
+            "taxationType": 1,
+            "ecashTotalSum": 7498,
+            "userInn": "7825706086",
+            "cashTotalSum": 0,
+            "fiscalDocumentNumber": 65777,
+            "receiptCode": 3,
+            "kktRegId": "0000430578064680    ",
+            "fiscalSign": 316970573,
+            "shiftNumber": 342,
+            "operator": "Кащеев Владиcлав",
+            "nds10": 70,
+            "nds18": 1026,
+            "totalSum": 7498,
+            "dateTime": "2018-05-16T21:44:00",
+            "requestNumber": 246
+        }
+    }
+},
+{
+    "document":
+    {
+        "receipt":
+        {
+            "items": [
+            {
+                "modifiers": [],
+                "name": "FELIX Дв Вкуснятина Kорм д/кош сух п",
+                "properties": [],
+                "price": 8290,
+                "quantity": 1,
+                "sum": 8290
+            },
+            {
+                "modifiers": [],
+                "name": "БОЛЬШОЙ ПАПА Мороженое сах.рожок кар",
+                "properties": [],
+                "price": 4990,
+                "quantity": 1,
+                "sum": 4990
+            }],
+            "properties": [],
+            "fiscalSign": 635705979,
+            "message": [],
+            "taxationType": 1,
+            "modifiers": [],
+            "kktRegId": "0000503496022542",
+            "retailPlaceAddress": "347900, Ростовская обл, Таганрог г, Фрунзе ул, дом $ 64",
+            "dateTime": "2018-05-21T12:21:00",
+            "nds10": 454,
+            "totalSum": 13280,
+            "receiptCode": 3,
+            "requestNumber": 67,
+            "operationType": 1,
+            "fiscalDriveNumber": "8716000100005677",
+            "cashTotalSum": 0,
+            "ecashTotalSum": 13280,
+            "userInn": "2310031475",
+            "fiscalDocumentNumber": 3710,
+            "rawData": "AwBSAREEEAA4NzE2MDAwMTAwMDA1Njc3DQQUADAwMDA1MDM0OTYwMjI1NDIgICAg+gMMADIzMTAwMzE0NzUgIBAEBAB+DgAA9AMEAKy5Als1BAYAMQQl5Bp7DgQEABEAAAASBAQAQwAAAB4EAQAB/AMCAOAzIwRPAAYEJABGRUxJWCCEoiCCquPhre/iqK2gIEuu4KwgpC+qrugg4ePlIK83BAIAYiD/AwIAAAETBAIAYiCvBAEAAbAEAgDxBLwEAQABvgQBAAQjBE8ABgQkAIGOi5yYjokgj4CPgCCMruCupqWtrqUg4aDlLuCupq6qIKqg4DcEAgB+E/8DAgAAARMEAgB+E68EAQACsAQCAMYBvAQBAAG+BAEABAcEAQAAOQQCAOAzvwQBAADABAEAAMEEAQAA/QMHAIquq66kqK0fBAEAAbkEAQACTgQCAPEETwQCAMYBgQbOtZOHuMA=",
+            "operator": "Колодин",
+            "shiftNumber": 17,
+            "nds18": 1265,
+            "stornoItems": [],
+            "senderAddress": "ofd@magnit.ru"
+        }
+    }
+},
+{
+    "document":
+    {
+        "receipt":
+        {
+            "items": [
+            {
+                "name": "3393590 МЯГКИЙ ЗНАК Бумага туал.2сл.6р.",
+                "ndsSum": 1388,
+                "ndsRate": 1,
+                "price": 9100,
+                "quantity": 1,
+                "sum": 9100
+            },
+            {
+                "name": "*3624215 PEPSI Нап.WILD CHERRY с/г 1,75л",
+                "ndsSum": 1007,
+                "ndsRate": 1,
+                "price": 6599,
+                "quantity": 1,
+                "sum": 6599
+            },
+            {
+                "name": "3182856 Яйца кур.С1 стол.фас.10шт",
+                "ndsSum": 454,
+                "ndsRate": 2,
+                "price": 4999,
+                "quantity": 1,
+                "sum": 4999
+            },
+            {
+                "name": "3610732 КОР.ИЗ КОР.Варенец терм.4% 350г",
+                "ndsSum": 399,
+                "ndsRate": 2,
+                "price": 4390,
+                "quantity": 1,
+                "sum": 4390
+            },
+            {
+                "name": "3260682 КУБАН.МОЛ.Твор.УМАНС.обезж.180г",
+                "ndsSum": 454,
+                "ndsRate": 2,
+                "price": 4999,
+                "quantity": 1,
+                "sum": 4999
+            },
+            {
+                "name": "2014224 ВЕК Вареники с карт./гриб. 400г",
+                "ndsSum": 598,
+                "ndsRate": 2,
+                "price": 6580,
+                "quantity": 1,
+                "sum": 6580
+            },
+            {
+                "name": "3455558 К.Ц.Миндаль жареный 100г",
+                "ndsSum": 1830,
+                "ndsRate": 1,
+                "price": 11999,
+                "quantity": 1,
+                "sum": 11999
+            }],
+            "postpaymentSum": 0,
+            "prepaymentSum": 0,
+            "operationType": 1,
+            "fiscalDriveNumber": "8710000100523982",
+            "nds18": 4225,
+            "cashTotalSum": 0,
+            "counterSubmissionSum": 0,
+            "taxationType": 1,
+            "receiptCode": 3,
+            "userInn": "7825706086",
+            "fiscalDocumentNumber": 165600,
+            "kktRegId": "0000430576028722    ",
+            "fiscalSign": 2485948267,
+            "shiftNumber": 360,
+            "operator": "Бурова Елена Андреевна, Продавец-каccир",
+            "nds10": 1906,
+            "dateTime": "2018-05-22T15:31:00",
+            "totalSum": 48666,
+            "ecashTotalSum": 48666,
+            "requestNumber": 254
+        }
+    }
+},
+{
+    "document":
+    {
+        "receipt":
+        {
+            "items": [
+            {
+                "name": "Товар 400 руб.",
+                "calculationTypeSign": 1,
+                "price": 12000,
+                "quantity": 1,
+                "calculationSubjectSign": 1,
+                "sum": 12000
+            },
+            {
+                "name": "Товар 190 руб.",
+                "calculationTypeSign": 1,
+                "price": 5700,
+                "quantity": 2,
+                "calculationSubjectSign": 1,
+                "sum": 11400
+            },
+            {
+                "name": "Товар 300 руб.",
+                "calculationTypeSign": 1,
+                "price": 9000,
+                "quantity": 1,
+                "calculationSubjectSign": 1,
+                "sum": 9000
+            },
+            {
+                "name": "Товар 220 руб.",
+                "calculationTypeSign": 1,
+                "price": 6600,
+                "quantity": 1,
+                "calculationSubjectSign": 1,
+                "sum": 6600
+            },
+            {
+                "name": "Товар 600 руб.",
+                "calculationTypeSign": 1,
+                "price": 18000,
+                "quantity": 1,
+                "calculationSubjectSign": 1,
+                "sum": 18000
+            }],
+            "postpaymentSum": 0,
+            "operationType": 1,
+            "retailPlace": "ИП МАРКИНА Ю.В.",
+            "taxationType": 4,
+            "counterSubmissionSum": 0,
+            "kktRegId": "0001516560000183    ",
+            "retailPlaceAddress": "347910, г. Таганрог, ул. Ленина, д. 226 E",
+            "totalSum": 57000,
+            "receiptCode": 3,
+            "requestNumber": 145,
+            "ndsNo": 57000,
+            "prepaymentSum": 0,
+            "fiscalSign": 586919515,
+            "fiscalDriveNumber": "8710000101448703",
+            "cashTotalSum": 0,
+            "protocolVersion": 2,
+            "fnsUrl": "www.nalog.ru",
+            "ecashTotalSum": 57000,
+            "userInn": "711802465368",
+            "fiscalDocumentNumber": 32228,
+            "operator": "Кассир",
+            "shiftNumber": 182,
+            "dateTime": "2018-05-23T16:51:00",
+            "user": "ИП Маркина Юлия Викторовна"
+        }
+    }
+},
+{
+    "document":
+    {
+        "receipt":
+        {
+            "items": [
+            {
+                "modifiers": [],
+                "name": "БЕЛОРУЧКА Крем д/рук и ногт Пита",
+                "properties": [],
+                "price": 4900,
+                "quantity": 1,
+                "sum": 4900
+            }],
+            "nds18": 747,
+            "properties": [],
+            "fiscalSign": 2125521156,
+            "message": [],
+            "taxationType": 1,
+            "user": "АО \"Тандер\"",
+            "modifiers": [],
+            "kktRegId": "0000644989021776",
+            "retailPlaceAddress": "Таганрог г, Ленина ул, дом № 226, корпус е",
+            "totalSum": 4900,
+            "receiptCode": 3,
+            "requestNumber": 96,
+            "operationType": 1,
+            "fiscalDriveNumber": "8710000100642025",
+            "cashTotalSum": 4900,
+            "ecashTotalSum": 0,
+            "userInn": "2310031475",
+            "fiscalDocumentNumber": 51035,
+            "rawData": "AwBXAREEEAA4NzEwMDAwMTAwNjQyMDI1DQQUADAwMDA2NDQ5ODkwMjE3NzYgICAg+gMMADIzMTAwMzE0NzUgIBAEBABbxwAA9AMEAPCfBVs1BAYAMQR+sOEEDgQEAJ4CAAASBAQAYAAAAB4EAQAB/AMCACQTIwRNAAYEIACBhYuOkJOXioAgiuClrCCkL+DjqiCoIK2uo+Igj6jioDcEAgAkE/8DBAAGQEIPEwQCACQTrwQBAAGwBAIA6wK+BAEABLwEAQAB/QMKAIqura6ioKuuoqAHBAIAJBM5BAEAAL8EAQAAwAQBAADBBAEAACQEDAB3d3cubmFsb2cucnWjBAwAkq7go66i66kgp6CruQQBAAJOBAIA6wIYBAsAgI4gIpKgraSl4CLxAyoAkqCjoK3grqMgoywgi6WtqK2gIOOrLCCkrqwg/CAyMjYsIKqu4K/j4SClHwQBAAGBBvAqDwSz1w==",
+            "operator": "Коновалова",
+            "shiftNumber": 670,
+            "dateTime": "2018-05-23T17:08:00",
+            "stornoItems": [],
+            "senderAddress": ""
+        }
+    }
+},
+{
+    "document":
+    {
+        "receipt":
+        {
+            "items": [
+            {
+                "name": "*3624215 PEPSI Нап.WILD CHERRY с/г 1,75л",
+                "ndsSum": 1007,
+                "ndsRate": 1,
+                "price": 6599,
+                "quantity": 1,
+                "sum": 6599
+            },
+            {
+                "name": "3360552 ХРУСТ.СухарикиБАГ.ТОМАТ/ЗЕЛ.60г",
+                "ndsSum": 327,
+                "ndsRate": 2,
+                "price": 3599,
+                "quantity": 1,
+                "sum": 3599
+            },
+            {
+                "name": "3620832 КУБ.МОЛ.Закваска ПРЕМ.3,2% 320г",
+                "ndsSum": 408,
+                "ndsRate": 2,
+                "price": 4489,
+                "quantity": 1,
+                "sum": 4489
+            },
+            {
+                "name": "3373037 Пиво KILKENNY ж/б 0.44л",
+                "ndsSum": 2273,
+                "ndsRate": 1,
+                "price": 14900,
+                "quantity": 1,
+                "sum": 14900
+            },
+            {
+                "name": "3373037 Пиво KILKENNY ж/б 0.44л",
+                "ndsSum": 2273,
+                "ndsRate": 1,
+                "price": 14900,
+                "quantity": 1,
+                "sum": 14900
+            },
+            {
+                "name": "3662143 ИНДИЛ.Стейк грудки охл.525г",
+                "ndsSum": 2227,
+                "ndsRate": 2,
+                "price": 24499,
+                "quantity": 1,
+                "sum": 24499
+            },
+            {
+                "name": "3503151 Д.В.Д.Творог мягкий 0,1% 200г",
+                "ndsSum": 481,
+                "ndsRate": 2,
+                "price": 5290,
+                "quantity": 1,
+                "sum": 5290
+            },
+            {
+                "name": "3503151 Д.В.Д.Творог мягкий 0,1% 200г",
+                "ndsSum": 481,
+                "ndsRate": 2,
+                "price": 5290,
+                "quantity": 1,
+                "sum": 5290
+            }],
+            "postpaymentSum": 0,
+            "prepaymentSum": 0,
+            "operationType": 1,
+            "fiscalDriveNumber": "8710000100523982",
+            "nds18": 5552,
+            "cashTotalSum": 0,
+            "counterSubmissionSum": 0,
+            "taxationType": 1,
+            "ecashTotalSum": 79566,
+            "userInn": "7825706086",
+            "fiscalDocumentNumber": 167761,
+            "kktRegId": "0000430576028722    ",
+            "fiscalSign": 2542972571,
+            "shiftNumber": 363,
+            "operator": "Бурова Елена Андреевна, Продавец-каccир",
+            "nds10": 3924,
+            "dateTime": "2018-05-25T19:57:00",
+            "totalSum": 79566,
+            "receiptCode": 3,
+            "requestNumber": 550
+        }
+    }
+},
+{
+    "document":
+    {
+        "receipt":
+        {
+            "items": [
+            {
+                "name": "3373035 Пиво GUINNESS 4,2% ж/б 0.44л",
+                "ndsSum": 2273,
+                "ndsRate": 1,
+                "price": 14900,
+                "quantity": 1,
+                "sum": 14900
+            },
+            {
+                "name": "3360552 ХРУСТ.СухарикиБАГ.ТОМАТ/ЗЕЛ.60г",
+                "ndsSum": 327,
+                "ndsRate": 2,
+                "price": 3599,
+                "quantity": 1,
+                "sum": 3599
+            },
+            {
+                "name": "3465063 Р.МИЛЯ Скумбрия кус.х/к в/у250г",
+                "ndsSum": 1145,
+                "ndsRate": 2,
+                "price": 12599,
+                "quantity": 1,
+                "sum": 12599
+            },
+            {
+                "name": "3636934 КУБ.ГОСТ.Сыр АЛЬПИЙСКИЙ 45% 1кг",
+                "ndsSum": 1063,
+                "ndsRate": 2,
+                "price": 40900,
+                "quantity": 0.286,
+                "sum": 11697
+            },
+            {
+                "name": "3650262 ЗИОН Горшок 90х90х85мм 10шт",
+                "ndsSum": 991,
+                "ndsRate": 1,
+                "price": 6499,
+                "quantity": 1,
+                "sum": 6499
+            },
+            {
+                "name": "*3624215 PEPSI Нап.WILD CHERRY с/г 1,75л",
+                "ndsSum": 1007,
+                "ndsRate": 1,
+                "price": 6599,
+                "quantity": 1,
+                "sum": 6599
+            },
+            {
+                "name": "2014224 ВЕК Вареники с карт./гриб. 400г",
+                "ndsSum": 598,
+                "ndsRate": 2,
+                "price": 6580,
+                "quantity": 1,
+                "sum": 6580
+            },
+            {
+                "name": "3373035 Пиво GUINNESS 4,2% ж/б 0.44л",
+                "ndsSum": 2273,
+                "ndsRate": 1,
+                "price": 14900,
+                "quantity": 1,
+                "sum": 14900
+            },
+            {
+                "name": "3649614 ГРIД.Хлеб ЛИТОВСКИЙ с кор.300г",
+                "ndsSum": 454,
+                "ndsRate": 2,
+                "price": 4999,
+                "quantity": 1,
+                "sum": 4999
+            },
+            {
+                "name": "3455558 К.Ц.Миндаль жареный 100г",
+                "ndsSum": 1830,
+                "ndsRate": 1,
+                "price": 11999,
+                "quantity": 1,
+                "sum": 11999
+            },
+            {
+                "name": "*3613299 Сардина т/о ИВАСИ натур.245г",
+                "ndsSum": 726,
+                "ndsRate": 2,
+                "price": 7990,
+                "quantity": 1,
+                "sum": 7990
+            },
+            {
+                "name": "67513 Томаты сливовидные красные 1кг",
+                "ndsSum": 775,
+                "ndsRate": 2,
+                "price": 15499,
+                "quantity": 0.55,
+                "sum": 8524
+            },
+            {
+                "name": "3506868 ОКТ.АПР.Стим.КОРНЕВ.корнеобр10г",
+                "ndsSum": 151,
+                "ndsRate": 1,
+                "price": 990,
+                "quantity": 1,
+                "sum": 990
+            },
+            {
+                "name": "3506868 ОКТ.АПР.Стим.КОРНЕВ.корнеобр10г",
+                "ndsSum": 151,
+                "ndsRate": 1,
+                "price": 990,
+                "quantity": 1,
+                "sum": 990
+            },
+            {
+                "name": "*3611114 СИГАРЕТЫ WINST.COM.PL.IMPUL.ПАЧ",
+                "ndsSum": 1525,
+                "ndsRate": 1,
+                "price": 10000,
+                "quantity": 1,
+                "sum": 10000
+            }],
+            "postpaymentSum": 0,
+            "prepaymentSum": 0,
+            "operationType": 1,
+            "fiscalDriveNumber": "8710000100535518",
+            "cashTotalSum": 0,
+            "counterSubmissionSum": 0,
+            "taxationType": 1,
+            "receiptCode": 3,
+            "userInn": "7825706086",
+            "ecashTotalSum": 122865,
+            "fiscalDocumentNumber": 66814,
+            "kktRegId": "0000430578064680    ",
+            "fiscalSign": 960941422,
+            "shiftNumber": 350,
+            "operator": "Тягло Валентин",
+            "nds10": 5090,
+            "nds18": 10202,
+            "totalSum": 122865,
+            "dateTime": "2018-05-24T21:06:00",
+            "requestNumber": 229
+        }
+    }
+},
+{
+    "document":
+    {
+        "receipt":
+        {
+            "items": [
+            {
+                "name": "PS4 God of War D1E",
+                "price": 399000,
+                "quantity": 1,
+                "sum": 399000
+            }],
+            "operationType": 1,
+            "fiscalDriveNumber": "8710000100537403",
+            "cashTotalSum": 0,
+            "taxationType": 1,
+            "ecashTotalSum": 399000,
+            "userInn": "7707548740",
+            "fiscalDocumentNumber": 891,
+            "receiptCode": 3,
+            "kktRegId": "0000612719042192",
+            "fiscalSign": 129177486,
+            "shiftNumber": 19,
+            "operator": "Кассир Ефименко Валерия Валерьевна",
+            "rawData": "AwABAREEEAA4NzEwMDAwMTAwNTM3NDAzDQQUADAwMDA2MTI3MTkwNDIxOTIgICAg+gMMADc3MDc1NDg3NDAgIBAEBAB7AwAA9AMEAKRvCVs1BAYAMQQHsxeODgQEABMAAAASBAQAKAAAAB4EAQAB/AMDAJgWBiMEPwAGBBIAUFM0IEdvZCBvZiBXYXIgRDFFNwQDAJgWBv8DAgAAARMEAwCYFgavBAEAAbAEAgDA7bwEAQABvgQBAAQHBAEAADkEAwCYFga/BAEAAMAEAQAAwQQBAAD9AyIAiqDh4ajgIIXkqKylraquIIKgq6XgqO8ggqCrpeDspaKtoB8EAQABTgQCAMDt",
+            "nds18": 60864,
+            "totalSum": 399000,
+            "dateTime": "2018-05-26T14:31:00",
+            "requestNumber": 40
+        }
+    }
+},
+{
+    "document":
+    {
+        "receipt":
+        {
+            "items": [
+            {
+                "name": "1:3272552 Мороженое ЖЕМЧУЖИНА РОССИИ 80г",
+                "price": 4990,
+                "quantity": 1,
+                "sum": 4990
+            }],
+            "totalSum": 4990,
+            "operationType": 1,
+            "fiscalDriveNumber": "9282000100012943",
+            "cashTotalSum": 0,
+            "taxationType": 1,
+            "receiptCode": 3,
+            "userInn": "7728029110",
+            "fiscalDocumentNumber": 1514,
+            "kktRegId": "0001322300022054",
+            "fiscalSign": 3377043472,
+            "shiftNumber": 4,
+            "operator": "Ластовецкая Наталия Валерьевна",
+            "nds10": 454,
+            "dateTime": "2018-05-26T14:37:00",
+            "rawData": "AwAVAREEEAA5MjgyMDAwMTAwMDEyOTQzDQQUADAwMDEzMjIzMDAwMjIwNTQgICAg+gMMADc3MjgwMjkxMTAgIBAEBADqBQAA9AMEAAxxCVs1BAYAMQTJSZgQDgQEAAQAAAASBAQAFgEAAB4EAQAB/AMCAH4TIwRJAAYEKAAxOjMyNzI1NTIgjK7grqalra6lIIaFjJeThoiNgCCQjpGRiIggODCjNwQCAH4T/wMCAAABEwQCAH4TrwQBAAKwBAIAxgEHBAEAADkEAgB+E78EAQAAwAQBAADBBAEAAP0DHgCLoOHirqKl5qqg7yCNoOKgq6jvIIKgq6Xg7KWiraCzBAwANjE1NDI4Mzc1Njg3HwQBAAFPBAIAxgE=",
+            "ecashTotalSum": 4990,
+            "requestNumber": 278
+        }
+    }
+},
+{
+    "document":
+    {
+        "receipt":
+        {
+            "items": [
+            {
+                "name": "Грунт 30л СЗТК Скорая помощь Универсалъ шт.",
+                "calculationTypeSign": 4,
+                "price": 20425,
+                "quantity": 1,
+                "calculationSubjectSign": 1,
+                "sum": 20425
+            }],
+            "postpaymentSum": 0,
+            "operationType": 1,
+            "retailPlace": "магазин СтроймаркетКрепёж",
+            "taxationType": 4,
+            "fnsUrl": "www.nalog.ru",
+            "kktRegId": "0001593831061205    ",
+            "retailPlaceAddress": "61-Ростовская область,347900,г.Таганрог,ул.Кузнечная,5/ул.Кузнечная,7/ул.Чехова,120-5",
+            "totalSum": 20425,
+            "receiptCode": 3,
+            "requestNumber": 100,
+            "ndsNo": 20425,
+            "prepaymentSum": 0,
+            "fiscalSign": 2088311389,
+            "fiscalDriveNumber": "8711000101966886",
+            "cashTotalSum": 0,
+            "protocolVersion": 2,
+            "counterSubmissionSum": 0,
+            "ecashTotalSum": 20425,
+            "userInn": "615420806620",
+            "fiscalDocumentNumber": 4281,
+            "operator": "Кравченко М.А.",
+            "shiftNumber": 29,
+            "dateTime": "2018-05-24T15:49:00",
+            "user": "ИП Заборцев Роман Сергеевич"
+        }
+    }
+},
+{
+    "document":
+    {
+        "receipt":
+        {
+            "items": [
+            {
+                "name": "Товар 250 руб.",
+                "calculationTypeSign": 1,
+                "price": 25000,
+                "quantity": 3,
+                "calculationSubjectSign": 1,
+                "sum": 75000
+            },
+            {
+                "name": "Товар 220 руб.",
+                "calculationTypeSign": 1,
+                "price": 22000,
+                "quantity": 2,
+                "calculationSubjectSign": 1,
+                "sum": 44000
+            },
+            {
+                "name": "Товар 190 руб.",
+                "calculationTypeSign": 1,
+                "price": 19000,
+                "quantity": 2,
+                "calculationSubjectSign": 1,
+                "sum": 38000
+            },
+            {
+                "name": "Товар 300 руб.",
+                "calculationTypeSign": 1,
+                "price": 30000,
+                "quantity": 1,
+                "calculationSubjectSign": 1,
+                "sum": 30000
+            }],
+            "postpaymentSum": 0,
+            "operationType": 1,
+            "retailPlace": "ИП МАРКИНА Ю.В.",
+            "taxationType": 4,
+            "fnsUrl": "www.nalog.ru",
+            "kktRegId": "0001516560000183    ",
+            "retailPlaceAddress": "347910, г. Таганрог, ул. Ленина, д. 226 E",
+            "totalSum": 187000,
+            "receiptCode": 3,
+            "requestNumber": 304,
+            "ndsNo": 187000,
+            "prepaymentSum": 0,
+            "fiscalSign": 809080510,
+            "fiscalDriveNumber": "8710000101448703",
+            "cashTotalSum": 0,
+            "protocolVersion": 2,
+            "counterSubmissionSum": 0,
+            "ecashTotalSum": 187000,
+            "userInn": "711802465368",
+            "fiscalDocumentNumber": 32954,
+            "operator": "Кассир",
+            "shiftNumber": 185,
+            "dateTime": "2018-05-26T18:50:00",
+            "user": "ИП Маркина Юлия Викторовна"
+        }
+    }
+}]
