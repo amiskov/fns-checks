@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        ul {
+            font: 16px/1.8 "Helvetica Neue", sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <ul id="list"></ul>
+    <script>
+        fetch('example.json').then(response => {
+            return response.json()
+        }).then(data => {
+            const ul = document.getElementById('list');
+
+            console.log(data);
+
+            data.forEach(docObj => {
+                const li = document.createElement('li');
+                const date = new Date(docObj.document.receipt.dateTime);
+                const retailPlace = docObj.document.receipt.retailPlace || docObj.document.receipt.user || docObj.document.receipt.userInn;
+                li.innerHTML = `<h3>${retailPlace}, ${date.toLocaleString('ru-RU', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}</h3>`;
+                ul.appendChild(li);
+
+                docObj.document.receipt.items.forEach(item => {
+                    const li = document.createElement('li');
+                    li.innerHTML = `${item.name}, цена: ${(item.price / 100).toLocaleString('ru-RU')}&thinsp;₽`;
+                    ul.appendChild(li);
+                })
+            });
+        });
+    </script>
+</body>
+</html>
